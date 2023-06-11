@@ -2,8 +2,11 @@
 
 ## Description
 
-- I created this project to incorporate accesibility features by using semantic html.
-- Improves the use of screen readers and other types of assistive technology used to read websites.
+Horiseon Web is a marketing company specializing in online offerings. This single page website is styled using CSS and is responsive to different screen sizes. Following accessibility standards was top priority when creating this website to allow for screen readers and other types of assistive technology used to read websites.
+
+You can check it out here: https://llourn.github.io/horiseon-web/
+
+![Horiseon Web](./assets/images/screenshot.png)
 
 ## Table of Contents
 
@@ -15,7 +18,7 @@
 
 ## Installation
 
-Being a basic website it only requires the use of HTML and CSS so there is nothing to install. However a web browser is required for viewing.
+No installation required. Simply download/clone the repo and open `index.html` in your browser.
 
 ## Usage
 
